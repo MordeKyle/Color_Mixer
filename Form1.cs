@@ -8,9 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Program: Sales Tax Calculator
+//Program: Color Mixer
 //Author: Kyle McBride A02609917
-//Date: 02/06/2014
+//Date: 02/25/2014
 //Description: User selects a color from each side of the form and the porgram mixes the two colors, changing the background
 //             to change to the mixed color.
 // SEE CHANGELOG IN SOLUTION DIRECTORY

@@ -1,0 +1,5 @@
+Change Log
+02/25/2014 10:22pm
+• added buttons and button clicks
+• added 6 radio buttons and selection changes to variables
+• added variables for left side, right side, background, and all colors
